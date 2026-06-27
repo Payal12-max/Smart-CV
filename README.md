@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-live-demo.vercel.app">
+  <a href="https://smatcv-resumebuilder12.vercel.app/">
     <img src="https://img.shields.io/badge/%20Live%20Demo-Open-success?style=for-the-badge" />
   </a>
 
